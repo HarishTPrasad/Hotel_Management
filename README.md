@@ -17,13 +17,8 @@ Check-in and Check-out: Facilitate smooth guest check-in and check-out processes
 
 Reporting: Generate reports to provide insights into room occupancy, revenue, and other hotel statistics.
 
-
-
-
-
-
-
 Usage
+
 Main Menu: Upon running the application, you will be presented with a main menu offering various options such as managing guests, reservations, rooms, and generating reports.
 
 Guest Management: Add, modify, or search for guest information. Capture special requests and contact details.
@@ -37,8 +32,5 @@ Billing: Generate bills for guests, including room charges and additional servic
 Check-in and Check-out: Facilitate smooth guest check-in and check-out processes, updating room status accordingly.
 
 Reporting: Generate reports to gain insights into hotel operations, including occupancy rates, revenue, and more.
-
-
-
 
 Thank you for using the Hotel Management System! We hope this application helps streamline hotel operations and enhance guest experiences. Your feedback is valuable to us.
